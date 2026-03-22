@@ -10,8 +10,8 @@
 - https://www.zhihu.com/*
 
 ## 使用方法
-1. 安装[油猴插件](https://www.tampermonkey.net/)
-2. 安装[本脚本](greasyfork.org/scripts/567030)
+1. 安装[油猴插件](https://www.tampermonkey.net)
+2. 安装[本脚本](https://greasyfork.org/scripts/567030)
 3. 刷新网页即可生效
 
 ## 说明
