@@ -10,7 +10,7 @@
 - https://www.zhihu.com/*
 
 ## 使用方法
-1. 安装 Tampermonkey 插件
+1. 安装[油猴插件](https://www.tampermonkey.net/)
 2. 安装本脚本
 3. 刷新网页即可生效
 
