@@ -16,14 +16,17 @@
 - 若网站更新导致脚本失效，请在反馈中附上问题页面的截图
 
 ## 效果图
-- 使用前 <br>
-<center><img src="https://greasyfork.s3.us-east-2.amazonaws.com/u7gbucribb6vx5jzrr4juc2clg12" width="1000">
 
-- 使用后 <br>
-<center><img src="https://greasyfork.s3.us-east-2.amazonaws.com/0t8g2zoledkqit75tizjh9qciius" width="1000">
+| 使用前 | 使用后 |
+|--------|--------|
+| <img src="https://greasyfork.s3.us-east-2.amazonaws.com/u7gbucribb6vx5jzrr4juc2clg12" width="500"> | <img src="https://greasyfork.s3.us-east-2.amazonaws.com/0t8g2zoledkqit75tizjh9qciius" width="500"> |
+| <img src="https://greasyfork.s3.us-east-2.amazonaws.com/9s942y50ghuo3cbbdlk6ojmsa9l3" width="500"> | <img src="https://greasyfork.s3.us-east-2.amazonaws.com/krs5m40lk956ngp2bi0lnpo0ddge" width="500"> |
 
-- 使用前 <br>
-<center><img src="https://greasyfork.s3.us-east-2.amazonaws.com/9s942y50ghuo3cbbdlk6ojmsa9l3" width="1000">
 
-- 使用后 <br>
-<center><img src="https://greasyfork.s3.us-east-2.amazonaws.com/krs5m40lk956ngp2bi0lnpo0ddge" width="1000">
+
+<br>
+<div style="display:flex; gap:10px;">
+  <img src="https://greasyfork.s3.us-east-2.amazonaws.com/u7gbucribb6vx5jzrr4juc2clg12" width="500">
+  <img src="https://greasyfork.s3.us-east-2.amazonaws.com/0t8g2zoledkqit75tizjh9qciius" width="500">
+</div>
+
