@@ -31,7 +31,6 @@
     if (enableZhihu) simplifyZhihu();
     if (enableDoubao) simplifyDoubao();
 
-    //监听 DOM 变化
     const observer = new MutationObserver((mutations) => {
         if (enableBilibili) simplifyBilibili();
         if (enableZhihu) simplifyZhihu();
@@ -40,6 +39,7 @@
     observer.observe(document.body, {childList: true, subtree: true});
 
 
+    
     //===============================函数区===============================
     
     function getStatusText(isOn) {
