@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         B站/知乎/豆包推荐屏蔽｜隐藏推荐/关闭首页推荐/净化页面插件
+// @name         推荐屏蔽工具
 // @namespace    https://greasyfork.org/zh-CN/users/1573237
-// @version      1.3.3
+// @version      1.3.4
 // @description  隐藏B站/知乎/豆包导航栏、搜索框、首页、侧边栏推荐
 // @author       zwb299
 // @match        *://*.bilibili.com/*
@@ -52,7 +52,7 @@
 
 
     function addToggleMenu(name, key, currentValue) {
-        const text = '⚙️ ' + name + ' | ' + getStatusText(currentValue);
+        const text = name + ' | ' + getStatusText(currentValue);
         GM_registerMenuCommand(text, function () {
             const newValue = !currentValue;
             GM_setValue(key, newValue);
