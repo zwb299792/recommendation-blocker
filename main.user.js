@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         recommendation-blocker
-// @namespace    https://greasyfork.org/zh-CN/users/1573237
-// @version      1.3.12
-// @description  隐藏常用网站导航栏、搜索框、首页、侧边栏推荐
-// @author       zwb299
+// @namespace    http://tampermonkey.net/
+// @version      1.4.0
+// @description  屏蔽常用网站导航栏、搜索框、首页、侧边栏推荐
+// @author       You
 // @match        *://*.bilibili.com/*
 // @match        *://*.zhihu.com/*
 // @match        *://*.doubao.com/*
 // @icon         https://cdn.simpleicons.org/adblock
+// @run-at       document-end
 // @require      https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js
 // @grant        GM_registerMenuCommand
 // @grant        GM_getValue
