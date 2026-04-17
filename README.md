@@ -1,5 +1,5 @@
 # Recommendation Blocker
-> 屏蔽常用网站导航栏、搜索框、首页、侧边栏推荐  🔗 [GitHub 仓库](https://github.com/zwb101325/recommendation-blocker)
+> 屏蔽常用网站导航栏、搜索框、首页、侧边栏推荐 
 
 ## ✨ 功能
 - 屏蔽 B站 导航栏、搜索框、首页、侧边栏推荐
@@ -24,4 +24,4 @@
 
 ## ⭐ 支持项目
 
-如果这个项目对你有帮助，欢迎点个 ⭐ Star 支持一下！
+如果这个项目对你有帮助，欢迎到 [GitHub](https://github.com/zwb101325/recommendation-blocker) 点个 ⭐ Star 支持一下！
